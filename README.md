@@ -9,13 +9,13 @@ BikeGear Solutions is a multinational retailer of cycling accessories operating 
 
 Some of the challenges BikeGear Solutions struggled with that created blind spots in marketing strategy, inventory decisions, and overall business planning are:
 
-- Unclear regional revenue performance: Leadership did not know which countries or states were generating the most revenue, making it hard to target profitable regions or identify underperforming ones.
+- **Unclear regional revenue performance:** Leadership did not know which countries or states were generating the most revenue, making it hard to target profitable regions or identify underperforming ones.
 
-_-**Uncertainty about customer demographics:**_ Leadership lacked insight into which age groups were buying their products, making targeted marketing difficult.
+_ **Uncertainty about customer demographics:** Leadership lacked insight into which age groups were buying their products, making targeted marketing difficult.
 
-_-**Limited understanding of product popularity: Leadership did not know which subcategories or products were high-performing versus low-performing.
+- Limited understanding of product popularity: Leadership did not know which subcategories or products were high-performing versus low-performing.
 
-_-**Difficulty predicting seasonal sales trends:**_Without visibility into monthly or seasonal patterns, the business struggled to plan inventory and promotions effectively.
+- Difficulty predicting seasonal sales trends: Without visibility into monthly or seasonal patterns, the business struggled to plan inventory and promotions effectively.
 
 # Dashboard & Insights
 
