@@ -8,6 +8,8 @@ This Excel work was to analyse BikeGear Solutions’ sales data and to uncover k
 
 - [Dashboard & Insights](https://github.com/Ehisztee16/BikeGear-Solutions-Sales-Optimization-Through-Data-Driven-Analysis/blob/main/README.md#dashboard--insights)
 
+- [Recommendations](https://github.com/Ehisztee16/BikeGear-Solutions-Sales-Optimization-Through-Data-Driven-Analysis/blob/main/README.md#recommendations)
+
 - 
 
 # Project Overview
