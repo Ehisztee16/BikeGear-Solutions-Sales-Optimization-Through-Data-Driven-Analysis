@@ -1,0 +1,2 @@
+# BikeGear-Solutions-Sales-Optimization-Through-Data-Driven-Analysis
+This Excel work was to analyse BikeGear Solutions’ sales data and to uncover key insights on regional performance, customer demographics, product demand, and seasonal trends. The findings helped the company refine marketing strategies, optimize inventory planning, and focus on high-profit product segments through data-driven recommendations.
