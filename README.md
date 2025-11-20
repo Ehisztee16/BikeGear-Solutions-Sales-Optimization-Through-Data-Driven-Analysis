@@ -1,6 +1,15 @@
 # BikeGear-Solutions-Sales-Optimization-Through-Data-Driven-Analysis
 This Excel work was to analyse BikeGear Solutions’ sales data and to uncover key insights on regional performance, customer demographics, product demand, and seasonal trends. The findings helped the company refine marketing strategies, optimize inventory planning, and focus on high-profit product segments through data-driven recommendations.
 
+# Table of Contents
+- [Project Overview](https://github.com/Ehisztee16/BikeGear-Solutions-Sales-Optimization-Through-Data-Driven-Analysis/blob/main/README.md#project-overview)
+
+- [Business Problems](https://github.com/Ehisztee16/BikeGear-Solutions-Sales-Optimization-Through-Data-Driven-Analysis/blob/main/README.md#business-problems)
+
+- [Dashboard & Insights](https://github.com/Ehisztee16/BikeGear-Solutions-Sales-Optimization-Through-Data-Driven-Analysis/blob/main/README.md#dashboard--insights)
+
+- 
+
 # Project Overview
 
 BikeGear Solutions is a multinational retailer of cycling accessories operating in Canada, the U.S., and Australia. Leadership needed a deeper understanding of sales patterns across regions, age groups, and product categories so they could make better decisions about marketing, inventory, and product focus.
@@ -11,11 +20,11 @@ Some of the challenges BikeGear Solutions struggled with that created blind spot
 
 - **Unclear regional revenue performance:** Leadership did not know which countries or states were generating the most revenue, making it hard to target profitable regions or identify underperforming ones.
 
-_ **Uncertainty about customer demographics:** Leadership lacked insight into which age groups were buying their products, making targeted marketing difficult.
+- **Uncertainty about customer demographics:** Leadership lacked insight into which age groups were buying their products, making targeted marketing difficult.
 
-- Limited understanding of product popularity: Leadership did not know which subcategories or products were high-performing versus low-performing.
+- **Limited understanding of product popularity:** Leadership did not know which subcategories or products were high-performing versus low-performing.
 
-- Difficulty predicting seasonal sales trends: Without visibility into monthly or seasonal patterns, the business struggled to plan inventory and promotions effectively.
+- **Difficulty predicting seasonal sales trends:** Without visibility into monthly or seasonal patterns, the business struggled to plan inventory and promotions effectively.
 
 # Dashboard & Insights
 
@@ -38,3 +47,6 @@ These recommendations are on the back of the above insights
 - Plan marketing campaigns around seasonal peaks: Launch promotions before expected demand spikes to capture maximum sales.
 
 - Refine inventory planning using seasonality trends: Increase stock prior to busy months to prevent shortages and reduce inventory during low seasons to minimize waste.
+
+# Conclusion
+Through the insight and recommendation of this project, BikerGear was furnished with data-driven analysis that unveiled customer behaviour, regional performance, product demand, and seasonal patterns. Leadership clearly sees the need to optimize marketing, inventory, and product strategies making it easier to drive growth across regions and product segments.
